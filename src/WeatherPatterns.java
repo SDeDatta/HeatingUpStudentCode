@@ -8,9 +8,6 @@
 
 public class WeatherPatterns
 {
-    private final int MIN_TEMP = -50;
-    private final int MAX_TEMP = 130;
-
 
     /**
      * Longest Warming Trend
